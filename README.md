@@ -25,16 +25,6 @@ A aplicacao funciona exclusivamente como API REST, nao possuindo interface grafi
 
 ---
 
-## Estrutura do Projeto
-
-catalogox-api/
-|-- app.py
-|-- catalogox.db
-|-- requirements.txt
-|-- README.md
-
----
-
 ## Como Executar a Aplicacao
 
 1. Clonar o repositorio
